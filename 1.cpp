@@ -3,6 +3,9 @@ using namespace std;
 
 int main ()
 {
-    cout<<"Lee Ba da"<<endl;
-    cout<<"master"<<endl;
+    cout<<"아니아니 수건좀 달라니까"<<endl;
+    
+    cout<<"창모"<<endl;
+    cout<<"널 지워야해"<<endl;
+    cout<<"내가 니놈이었다면, 그렇지 않지만 우린 마시러 갔을 꺼야, 덕소 앨리팝";
 }

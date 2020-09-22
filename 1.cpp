@@ -3,7 +3,7 @@ using namespace std;
 
 int main ()
 {
-    cout<<"아니아니 수건좀 달라니까"<<endl;
+    cout<<"Dingo"<<endl;
     
     cout<<"창모"<<endl;
     cout<<"널 지워야해"<<endl;

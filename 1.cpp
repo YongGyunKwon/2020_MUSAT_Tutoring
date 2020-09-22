@@ -7,4 +7,5 @@ int main ()
     cout<<"Son Tottenham"<<endl;
 
     cout<<"Ali"<<endl;
+    cout<<"Deli"<<endl;
 }
